@@ -1,0 +1,1 @@
+# Human-activity-recognition-with-smartphones-using-machine-learning-process-ALGOR2
